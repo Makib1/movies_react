@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Makib1/movies_react/tree/master/static/css/main.d348b859.css",
+    "main.js": "/Makib1/movies_react/tree/master/static/js/main.cb794fea.js",
+    "index.html": "/Makib1/movies_react/tree/master/index.html",
+    "static/media/search.svg": "/Makib1/movies_react/tree/master/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.d348b859.css.map": "/Makib1/movies_react/tree/master/static/css/main.d348b859.css.map",
+    "main.cb794fea.js.map": "/Makib1/movies_react/tree/master/static/js/main.cb794fea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d348b859.css",
+    "static/js/main.cb794fea.js"
+  ]
+}
